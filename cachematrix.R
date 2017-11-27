@@ -1,6 +1,6 @@
 ## Taking Invertible matrix as input and storing in catch. 
 ## Display inverse of matix after calculation or from catch if exists 
-
+# Assumed input matrix is Invertible
 
 makeCacheMatrix <- function(x = matrix()) {
   
